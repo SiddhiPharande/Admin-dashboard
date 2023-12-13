@@ -1,1 +1,1 @@
-Admin Dashboard -Fronted
+Admin Dashboard -Frontend
